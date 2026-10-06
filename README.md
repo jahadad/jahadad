@@ -1,6 +1,6 @@
 # Jose Agustin Hadad
 
-Support and customer success operations, based in Córdoba, Argentina. Eight years in SaaS, the last five running support and CS ops across 20+ brands at a fully remote company.
+Support & Customer Success Operations Manager, based in Córdoba, Argentina. Eight years in SaaS, the last five running support and CS ops across 20+ brands at a fully remote company.
 
 Most of what I build is for operations: automations that take repetitive work off a team, trackers that show where every team stands, and small tools that put a process where a person used to chase it. I trained as a full-stack developer, so when the work needs a tool I usually build it myself.
 
